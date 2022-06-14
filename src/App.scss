@@ -1,0 +1,17 @@
+@import "./components/NavBar/navaBarStyle.scss";
+
+@import "./pages/MarvelComics/stylesMarvel";
+
+
+@import "./components/footer/style";
+
+@import "./components/ShopCards/styleShop";
+.App {
+  font-family: "Russo One", sans-serif;
+}
+body {
+  font-family: "Righteous", cursive;
+  background-color: white;
+  margin: 0;
+  padding: 0%;
+}

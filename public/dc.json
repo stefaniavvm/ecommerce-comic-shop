@@ -1,0 +1,35 @@
+[
+  {
+    "comic": "BATMAN",
+    "nameHero": "Bruce Wyne",
+    "writer": "Tom King",
+    "year": 2022,
+    "description": "A shocking heist has the mysterious and deadly figure called the Help cutting his way through Gotham City",
+    " penciler": "David Marquez",
+    "image": "https://www.ecccomics.com/content/productos/8208/cubierta_batman_victoria_oscura_black_label_WEB.jpg",
+
+    "issues": 3
+  },
+  {
+    "comic": "NUBIA",
+    "nameHero": "NUBIA",
+    "writer": "Vita Ayala",
+    "year": 2022,
+    "description": "After the events of Trial of the Amazons, a new era for these warriors has dawned.",
+    " penciler": "Alitha Martinez",
+    "image": "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2022/04/NUBIACOROSP_Cv1_00111_DIGITAL_6266f5833c4899.89406053.jpg?itok=mIqQictt",
+
+    "issues": 1
+  },
+  {
+    "comic": "WONDER WOMAN",
+    "nameHero": "Diana Prince",
+    "writer": "Allan Heinberg",
+    "year": 2008,
+    "description": "In this volume collecting WONDER WOMAN #1-4, plus WONDER WOMAN ANNUAL #1 by acclaimed writer Allan Heinberg",
+    " penciler": "Gary Frank",
+    "image": "https://www.ecccomics.com/content/productos/8091/cubierta_wonder_woman_Goodwatch.jpg",
+
+    "issues": 1
+  }
+]

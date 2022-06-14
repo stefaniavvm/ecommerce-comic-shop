@@ -1,0 +1,143 @@
+[
+  {
+    "comic": "Spider-man",
+    "nameHero": "Peter Parker",
+    "writer": "Brian Bendis",
+    "year": 2000,
+    "description": "Spider-Man has spider-like abilities including superhuman strength and the ability to cling to most surfaces.",
+    " penciler": "Mark Gagley",
+    "image": "https://www.zonanegativa.com/imagenes/2016/03/Ultimate-Spider-Man-5-cover.jpg",
+
+    "issues": 166
+  },
+  {
+    "comic": "Daredevil",
+    "nameHero": "Matt Murdock",
+
+    "writer": "Chip Zdarsky",
+    "year": 2019,
+    "description": "Daredevils origins come from an accident he had in his childhood which gave him special abilities.neighborhood of Hells Kitchen.",
+    "penciler": "Marco Checchetto",
+    "image": "https://www.eslahoradelastortas.com/blog/media/2020/11/SMUST007_0.jpg",
+
+    "issues": 36
+  },
+
+  {
+    "comic": "Iron Man",
+    "nameHero": "Tony Stark",
+    "writer": "Christopher Cantwell",
+    "year": 2020,
+    "description": "BIG IRON! Tony Stark is looking to restart his engine. He decides hes going back to basics, putting away his high-tech.",
+    "penciler": "C Cafu",
+    "image": "https://starsmydestination.files.wordpress.com/2021/01/iron-man-01-portada-alex-ross-starsmydestination.jpg",
+
+    "issues": 17
+  },
+
+  {
+    "comic": "Moon Knight",
+    "nameHero": "Marc Spector",
+    "writer": "Warren Ellis",
+    "year": 2014,
+    "description": "Marc Spector is Moon Knight!...Or is he? It's hard to tell these days, especially when New York's wildest vigilante protects.",
+    "penciler": "Declan Shalvey",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/2/80/530e4d1b02751/clean.jpg",
+
+    "issues": 1
+  },
+
+  {
+    "comic": "Wolverine",
+    "nameHero": "Logan",
+    "writer": "Benjamin Percy",
+    "year": 2020,
+    "description": "THE BEST IS BACK! Wolverine been through a lot. He’s been a loner. He’s been a killer.",
+    "penciler": "Viktor Bogdanovic",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/60917f7b97bfc/clean.jpg",
+    "issues": 1
+  },
+
+  {
+    "comic": "X-Men",
+    "nameHero": "X-Men",
+    "writer": "Al Ewing",
+    "year": 2022,
+    "description": "WHO CAN SAVE THE RED PLANET? The mutants of Arakko spent millennia scarred by war.",
+    "penciler": "Stefano Caselli",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/62432e4f27fcd/clean.jpg",
+
+    "issues": 1
+  },
+  {
+    "comic": "Jessica Jones",
+    "nameHero": "Jessica Jones",
+    "writer": "Kelly Thompson",
+    "year": 2022,
+    "description": "Jessica Jones is forced to question everything she thought she knew about her time with the Purple Man.",
+    "penciler": "Mattia De Iulis",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/5c702a03b99dc/clean.jpg",
+
+    "issues": 1
+  },
+
+  {
+    "comic": "Captain Marvel ",
+    "nameHero": "Carol Danvers",
+    "writer": "Kelly Thompson",
+    "year": 2019,
+    "description": "Carol Danvers taps into a new level of power in her fight against Ove, but at what cost?",
+    "penciler": "Lee Garbett",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/f/f0/6030364318df2/clean.jpg",
+
+    "issues": 26
+  },
+
+  {
+    "comic": "Black Widow ",
+    "nameHero": "Natasha Romanoff",
+    "writer": "Kelly Thompson",
+    "year": 2020,
+    "description": "Natasha Romanoff is known for having skeletons in her closet, but THE LIVING BLADE is the one skeleton.",
+    "penciler": "Elena Casagrande",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/20/62015569dafd0/clean.jpg",
+
+    "issues": 14
+  },
+
+  {
+    "comic": "X-Men: Black Mystique ",
+    "nameHero": "Mystique",
+    "writer": "Lonnie Nadler",
+    "year": 2018,
+    "description": "THAT’S SO RAVEN! What’s a day in the life for Raven Darkholme, A.K.A. Mystique? Brutal kills.",
+    "penciler": "Geraldo Borges",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/5bbe675ed5024/clean.jpg",
+
+    "issues": 14
+  },
+
+  {
+    "hero": "Devil's Reign: X-Men ",
+    "nameHero": "X-Men",
+    "writer": "Gerry Duggan",
+    "year": 2018,
+    "description": "DEALS WITH THE DEVIL! Turns out attending Hellfire Club soirees was not the naughtiest thing.",
+    "penciler": "Phil Noto",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/2/f0/62017965a2cd0/clean.jpg",
+
+    "issues": 2
+  },
+
+  {
+    "hero": "Daredevil (2019) ",
+    "nameHero": "Matt Murdock",
+    "writer": "Chip Zdarsky",
+    "year": 2019,
+    "description": "DOING TIME CONTINUES! As Elektra gets her bearings in Hell's Kitchen, Matt Murdock finds an unlikely ally in prison.",
+    "penciler": "Marco Checchetto",
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/00/60afe347009cc/clean.jpg",
+
+    "issues": 30
+  }
+]
